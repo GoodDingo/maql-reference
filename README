@@ -1,2 +1,4 @@
 This repository contains the source files of the Advanced MAQL Reference guide ("source" folder) 
 and also compiled PDF revisions of the Advanced MAQL Reference guide ("pdf" folder).
+
+To generate pdf file use the Makefile located in the Source directory.
